@@ -1,16 +1,60 @@
-## Hi there 👋
+**👋 Hi, I’m Princess 👩🏽‍💻👑**
 
-<!--
-**princeychrissyt3/princeychrissyt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student (Predicted First Class)
+📍 University of Kent BSc Hons Computer Science | Graduating 2026
+💡 Aspiring Data Scientist / Analyst with strong interest in FinTech, Product, and Project Management
 
-Here are some ideas to get you started:
+I’m a curious and driven computer science student with a deep interest in how technology, data, and financial markets intersect. I enjoy building data-driven solutions, working across teams, and translating complex technical ideas into real business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside data science, I’m actively exploring project management and product ownership within the financial technology space. I’m also a self-confessed nerd who has researched quantum computing 👾.
+
+🚀 What I’m Currently Focused On
+
+📊 Developing my data science & analytics skillset (ML, data mining, real datasets)
+
+💻 Building quality software using modern tools and best practices
+
+🏦 Learning more about financial systems, markets, and enterprise tech
+
+🧠 Exploring quantum computing concepts beyond the classroom
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**💼 Experience Snapshot**
+
+💳 Prior American Express Frontend Software Engineering Spring Intern on the OPUS TLS Team (React, enterprise codebases)
+
+📈 Exposure to asset management systems and financial technology platforms
+
+🤝 Client-facing and cross-functional collaboration experience
+
+👩🏽‍🏫 University Of Kent Peer tutor simplifying complex programming concepts
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**🌱 Career Interests**
+
+FinTech & financial markets technology
+
+Data science, analytics & automation
+
+Product ownership & technical project management
+
+Technology leadership & long-term impact
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📫 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/princess-chriscent-eshun/
+
+🧑‍💻 GitHub: you’re already here 😅
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**⚡ Fun Facts**
+
+📸 I love photography and editing lifestyle content making lasting memories - my creative side 
+
+🧩 I enjoy breaking down complex systems into simple actionable ideas and solutions.
+
+🔐 Fascinated by quantum computing
+
+☕ Powered by curiosity, structure, and a good challenge
