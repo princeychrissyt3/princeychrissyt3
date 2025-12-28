@@ -1,7 +1,9 @@
 **👋 Hi, I’m Princess 👩🏽‍💻👑**
 
 🎓 Final-year Computer Science student (Predicted First Class)
+
 📍 University of Kent BSc Hons Computer Science | Graduating 2026
+
 💡 Aspiring Data Scientist / Analyst with strong interest in FinTech, Product, and Project Management
 
 I’m a curious and driven computer science student with a deep interest in how technology, data, and financial markets intersect. I enjoy building data-driven solutions, working across teams, and translating complex technical ideas into real business value.
@@ -18,16 +20,6 @@ Alongside data science, I’m actively exploring project management and product 
 
 🧠 Exploring quantum computing concepts beyond the classroom
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**💼 Experience Snapshot**
-
-💳 Prior American Express Frontend Software Engineering Spring Intern on the OPUS TLS Team (React, enterprise codebases)
-
-📈 Exposure to asset management systems and financial technology platforms
-
-🤝 Client-facing and cross-functional collaboration experience
-
-👩🏽‍🏫 University Of Kent Peer tutor simplifying complex programming concepts
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🌱 Career Interests**
