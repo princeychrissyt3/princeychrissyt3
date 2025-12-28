@@ -11,6 +11,12 @@ I’m a curious and driven computer science student with a deep interest in how 
 Alongside data science, I’m actively exploring project management and product ownership within the financial technology space. I’m also a self-confessed nerd who has researched quantum computing 👾.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**👩🏽‍💻Tech Stack:**
+
+Programming Languages and Skills: Java, Python, SQL (Postgres), JavaScript, HTML/CSS, React, Microsoft Office, Excel, Word, Powerpoint
+Developer Tools and Libraries: Git, Docker, VS Code, Visual Studio, IntelliJ, pandas, NumPy, Matplotlib
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🚀 What I’m Currently Focused On**
 
 📊 Developing my data science & analytics skillset (ML, data mining, real datasets)
