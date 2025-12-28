@@ -10,7 +10,8 @@ I’m a curious and driven computer science student with a deep interest in how 
 
 Alongside data science, I’m actively exploring project management and product ownership within the financial technology space. I’m also a self-confessed nerd who has researched quantum computing 👾.
 
-🚀 What I’m Currently Focused On
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**🚀 What I’m Currently Focused On**
 
 📊 Developing my data science & analytics skillset (ML, data mining, real datasets)
 
@@ -19,7 +20,6 @@ Alongside data science, I’m actively exploring project management and product 
 🏦 Learning more about financial systems, markets, and enterprise tech
 
 🧠 Exploring quantum computing concepts beyond the classroom
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🌱 Career Interests**
@@ -33,8 +33,7 @@ Product ownership & technical project management
 Technology leadership & long-term impact
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📫 Let’s Connect
+**📫 Let’s Connect**
 
 💼 LinkedIn: https://www.linkedin.com/in/princess-chriscent-eshun/
 
