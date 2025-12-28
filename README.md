@@ -42,7 +42,7 @@ Technology leadership & long-term impact
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **⚡ Fun Facts**
 
-📸 I love photography and editing lifestyle content making lasting memories - my creative side 
+📸 I love photography and editing lifestyle content making lasting memories
 
 🧩 I enjoy breaking down complex systems into simple actionable ideas and solutions.
 
