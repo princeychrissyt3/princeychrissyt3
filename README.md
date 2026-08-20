@@ -1,14 +1,12 @@
 **👋 Hi, I’m Princess 👩🏽‍💻👑**
 
-🎓 Final-year Computer Science student (Predicted First Class)
-
-📍 University of Kent BSc Hons Computer Science | Graduating 2026
+🎓 Computer Science Graduate Attaining First Class
 
 💡 Aspiring Data Scientist / Analyst with strong interest in FinTech, Product, and Project Management
 
 I’m a curious and driven computer science student with a deep interest in how technology, data, and financial markets intersect. I enjoy building data-driven solutions, working across teams, and translating complex technical ideas into real business value.
 
-Alongside data science, I’m actively exploring project management and product ownership within the financial technology space. I’m also a self-confessed nerd who has researched quantum computing 👾.
+Alongside data science, I’m actively exploring project management and product ownership within the financial technology space. I’m also a self-confessed nerd who has researched quantum computing at sixth form level and university level achieving 87% 👾.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **👩🏽‍💻Tech Stack:**
